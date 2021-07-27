@@ -55,7 +55,15 @@ In order to help getting used to programming and analyzing data in Python a seri
 
 Folder structure of the Project is as follows:
 
-* test
+* PyBank
 
-  * test2
+  * Resources - where the data file is stored
+
+  * Analysis - where the resluting analysis text file is stored.
+
+* PyPoll
+
+  * Resources - where the data file is stored
+
+  * Analysis - where the resluting analysis text file is stored.
 
