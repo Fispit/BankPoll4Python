@@ -47,7 +47,14 @@ In order to help getting used to programming and analyzing data in Python a seri
   * The winner of the election based on popular vote.
 
 * The Resulting data is given out in the form of:
+
 ![PyPoll](PyPoll.png)
 
 * In addition, the final script will print a text file with the results of the terminal.
+
+
+Folder structure of the Project is as follows:
+
+*test
+**test2
 
