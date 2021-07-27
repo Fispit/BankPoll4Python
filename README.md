@@ -9,6 +9,7 @@ In order to help getting used to programming and analyzing data in Python a seri
 * In this test, an Analysis of financial records was to be obtained. The dataset is composed of two columns: `Date` and `Profit/Losses`. (Thankfully, the company has rather lax standards for accounting so the records are simple.)
 
 * A preview of the dataset is seen below.
+
 ![dataset](PyBank_resources.PNG)
 
 * The output for the datased is expected to include the following information:
