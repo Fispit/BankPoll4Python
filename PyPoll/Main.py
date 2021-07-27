@@ -27,8 +27,8 @@ electionresults=f"Election Results\n====================\nTotal Votes: {totalvot
 winnervotes=0
 for candidate in votecount:
     candidatevotes=votecount[candidate]
-    percentagevote=round(candidatevotes/totalvotes*100,6)
-    electionresults+=f"{candidate}: {percentagevote} ({candidatevotes})\n"
+    percentagevote=round(candidatevotes/totalvotes*100,5)
+    electionresults+=f"{candidate}: {percentagevote}% ({candidatevotes})\n"
     if candidatevotes>winnervotes:
         winner=candidate
         winnervotes=candidatevotes

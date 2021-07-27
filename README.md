@@ -1,4 +1,4 @@
-# Python Homework - Py Me Up, Charlie
+# Python Testing
 
 ## Background
 
@@ -32,8 +32,9 @@ In order to help getting used to programming and analyzing data in Python a seri
 ## PyPoll
 ![Introduction2](Vote_counting.png)
 * In this test is regarding helping a small, rural town modernize its vote counting process.
+![Poll Data](Vote
 
-* You will be give a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. A Python script needs to be made that analyzes the votes and calculates each of the following:
+* The dataset voting dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. A Python script needs to be made that analyzes the votes and calculates each of the following:
 
   * The total number of votes cast
 
@@ -45,7 +46,8 @@ In order to help getting used to programming and analyzing data in Python a seri
 
   * The winner of the election based on popular vote.
 
-* The Resulting 
+* The Resulting data is given out in the form of:
+![PyPoll](PyPoll.png)
 
 * In addition, the final script will print a text file with the results of the terminal.
 
