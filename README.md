@@ -55,6 +55,6 @@ In order to help getting used to programming and analyzing data in Python a seri
 
 Folder structure of the Project is as follows:
 
-*test
-**test2
+* test
+** test2
 
